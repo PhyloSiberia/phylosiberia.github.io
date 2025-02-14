@@ -7,9 +7,10 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Resources', url: 'resources'}
-- {name: 'Sample Posts',       url: 'sample-posts'}
-- {name: 'Documentation',      url: 'documentation'}
+- {name: 'Amphibia', url: 'resources'}
+- {name: 'Reptilia',       url: 'sample-posts'}
+- {name: 'Ranavirus in Russia',       url: 'sample-posts'}
+- {name: 'Publications',      url: 'documentation'}
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
 
